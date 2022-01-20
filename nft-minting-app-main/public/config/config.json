@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x15B2F0668A7FaCF144D6F710dD93D380260596ad",
+  "SCAN_LINK": "https://polygonscan.com/address/0x15b2f0668a7facf144d6f710dd93d380260596ad",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Anti Giraffe Giraffe Club",
+  "SYMBOL": "AGGC",
+  "MAX_SUPPLY": 2450,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/anti-giraffe-giraffe-club",
+  "SHOW_BACKGROUND": true
+}
